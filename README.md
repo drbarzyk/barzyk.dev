@@ -1,14 +1,17 @@
 # Vue 3 + TypeScript + Vite
 
-## Cloning the Repo
+## Getting Started
 
-1. Open Terminal and navigate to desired root directory
-2. `git clone https://github.com/drbarzyk/barzyk.dev.git`
-3. `npm install`
-4. `npm run dev`
+Open Terminal and navigate to desired root directory
 
-> Note: 
->
-> ***Step 3*** will install the required packages from `package.json`
-> 
-> ***Step 4*** will run the development environment
+- `git clone https://github.com/drbarzyk/barzyk.dev.git`
+
+This will clone the repository
+
+- `npm install`
+
+This will install the required packages from `package.json`
+
+- `npm run dev`
+
+This will run the development environment
