@@ -24,7 +24,7 @@ Create a new branch in the repository:
 
 - `git branch <branch_name>`
 
-Switch to your branch:
+Switch to your branch (so you don't edit the main branch):
 
 - `git checkout <branch_name>`
 
