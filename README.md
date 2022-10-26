@@ -4,5 +4,8 @@
 
 1. Open Terminal and navigate to desired root directory
 2. `git clone https://github.com/drbarzyk/barzyk.dev.git`
-3. `npm install` # Install required packages from `package.json`
-4. `npm run dev` # Run the development environment
+3. `npm install`
+4. `npm run dev`
+
+> Note: Step 3 will install the required packages from `package.json`
+> Note: Step 4 will run the development environment
