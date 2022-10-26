@@ -7,6 +7,8 @@
 3. `npm install`
 4. `npm run dev`
 
-> Note: Step 3 will install the required packages from `package.json`
+> Note: 
+>
+> ***Step 3*** will install the required packages from `package.json`
 > 
-> Note: Step 4 will run the development environment
+> ***Step 4*** will run the development environment
