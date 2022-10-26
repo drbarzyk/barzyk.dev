@@ -1,5 +1,7 @@
 # Vue 3 + TypeScript + Vite
 
+## Requirements
+- [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 ## Getting Started
 
 > Open Terminal and navigate to desired root directory.
@@ -56,3 +58,5 @@ Switch to the main branch:
 Pull updates from main branch:
 
 - `git pull`
+
+## Merging your changes with the main branch
