@@ -39,7 +39,7 @@ To push changes to your branch, you must:
 
 Stage your changes:
 
-- `git add .`s
+- `git add .`
 
 Create a commit with a meaningful message:
 
