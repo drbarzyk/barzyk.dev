@@ -2,16 +2,16 @@
 
 ## Getting Started
 
-Open Terminal and navigate to desired root directory
+Open Terminal and navigate to desired root directory.
+
+To clone the repository:
 
 - `git clone https://github.com/drbarzyk/barzyk.dev.git`
 
-This will clone the repository
+To install the required packages from `package.json`
 
 - `npm install`
 
-This will install the required packages from `package.json`
+To run the development environment
 
 - `npm run dev`
-
-This will run the development environment
