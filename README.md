@@ -43,7 +43,7 @@ Stage your changes:
 
 Create a commit with a meaningful message:
 
-- `git commit -m "Updated README.md !"`
+- `git commit -m "Updated README file"`
 
 Push to the repo:
 
