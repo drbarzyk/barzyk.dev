@@ -33,7 +33,7 @@ To push changes to your branch, you must:
 2. Create a commit that captures these changes with `git commit`
 3. Push this commit to the remote repository with `git push`
 
-*** !!! Before moving on, make sure you are on the correct branch. !!! ***
+***!!! Before moving on, make sure you are on the correct branch. !!!***
 
 Stage your changes:
 
