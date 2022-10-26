@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-Open Terminal and navigate to desired root directory.
+> Open Terminal and navigate to desired root directory.
 
 To clone the repository:
 
