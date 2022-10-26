@@ -8,7 +8,7 @@ To clone the repository:
 
 - `git clone https://github.com/drbarzyk/barzyk.dev.git`
 
-To install the required packages from `package.json`
+To install the required packages from ***package.json***
 
 - `npm install`
 
