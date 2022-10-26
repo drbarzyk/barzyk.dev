@@ -43,7 +43,7 @@ Stage your changes:
 
 Create a commit with a meaningful message:
 
-- `git commit -m "Made changes to the README"`
+- `git commit -m "Added Getting Started section"`
 
 Push to the repo:
 
