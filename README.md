@@ -49,7 +49,7 @@ Push to the repo:
 
 - `git push`
 
-## Pulling from the main branch
+## Updating your branch with changes from the main branch
 
 Switch to the main branch:
 
@@ -59,4 +59,10 @@ Pull updates from main branch:
 
 - `git pull`
 
-## Merging your changes with the main branch
+Switch back to your branch:
+
+- `git checkout <branch_name>`
+
+Merge your branch with the main branch:
+
+- `git merge main`
